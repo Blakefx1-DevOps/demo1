@@ -1,0 +1,17 @@
+What is Git: Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflow.
+
+What is the difference between Git and Github:
+what's the difference? Simply put, Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them
+
+What is DVCS:
+Image result for What is DVCS
+A distributed version control system (DVCS) is a type of version control where the complete codebase — including its full version history — is mirrored on every developer's computer. It's abbreviated DVCS. Changes to files are tracked between computers.
+
+What does SCM stand for in DevOps?
+Software configuration management (SCM) is a set of processes, policies, and tools that organizes the development process. It simultaneously maintains the current state of the software (called the “baseline”), while enabling developers to work on new versions for features or fixes
+
+What is git Branch?
+The git branch command lets you create, list, rename, and delete branches. It doesn't let you switch between branches or put a forked history back together again. For this reason, git branch is tightly integrated with the git checkout and git merge commands
+
+What is Git Tag?
+Tags are ref's that point to specific points in Git history. Tagging is generally used to capture a point in history that is used for a marked version release (i.e. v1. 0.1). A tag is like a branch that doesn't change. Unlike branches, tags, after being created, have no further history of commit.
